@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/home/ubuntu/miniconda3/envs/619/bin/python",
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "terminal.integrated.env.linux": {
+        "PYTHONVIRTUALENV": "619"
+    }
+}
