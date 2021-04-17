@@ -3,3 +3,4 @@ wandb
 **/*.npz
 **/*.tar.gz
 **/*.npy
+**/*.ckpt
